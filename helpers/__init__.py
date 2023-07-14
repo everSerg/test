@@ -1,1 +1,1 @@
-from .helper import my_func
+from .helpers import my_func
