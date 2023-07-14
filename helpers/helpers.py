@@ -1,2 +1,2 @@
 def my_func():
-  return "Hi there"  
+  return "Hi there v1.0.1"  
